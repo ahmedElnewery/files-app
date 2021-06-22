@@ -1,0 +1,16 @@
+.fileWrapper{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 1rem;
+    .icon{
+        margin-bottom: .5rem;
+    }
+    .fileName{
+        font-size: 1.25rem;
+        font-weight: 300;
+
+    }
+    
+}
